@@ -36,3 +36,5 @@ backend/config/master.key
 
 
 backend/vendor
+.DS_Store
+
